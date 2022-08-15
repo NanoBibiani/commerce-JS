@@ -23,9 +23,9 @@ function renderCard(id,objeto) {
     /* document.querySelector(`${id}`).innerHTML = plantilla */
 }
 
-renderCard("todos",personaje1)
+/* renderCard("todos",personaje1)
 renderCard("todos",personaje2)
 renderCard("todos",personaje3)
 renderCard("todos",personaje4)
-renderCard("todos",personaje5)
+renderCard("todos",personaje5) */
 
